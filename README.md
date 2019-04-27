@@ -1,0 +1,2 @@
+# AntiVoid
+Einfaches AntiVoid Plugin.
