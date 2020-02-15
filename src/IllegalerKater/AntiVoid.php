@@ -17,7 +17,7 @@ class AntiVoid extends PluginBase implements Listener {
   
   public function onMove(PlayerMoveEvent $event) {
     if($event->getPlayer()->getY() < -1) {
-      $event->getPlayer()->teleport($event->getPlayer()->getLevel->getSafeSpawn());
+      $event->getPlayer()->teleport($event->getPlayer()->getLevel()->getSafeSpawn());
     }
   }
   
