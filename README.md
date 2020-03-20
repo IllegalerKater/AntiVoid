@@ -1,2 +1,2 @@
 # AntiVoid
-Einfaches AntiVoid Plugin.
+Just a very easy AntiVoid for PMMP servers
